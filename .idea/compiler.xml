@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="HibernateByJava_main" target="1.5" />
+      <module name="HibernateByJava_test" target="1.5" />
+      <module name="HibernateByJavaBrains_main" target="1.5" />
+      <module name="HibernateByJavaBrains_test" target="1.5" />
+      <module name="HibernateByKoushik_main" target="1.5" />
+      <module name="HibernateByKoushik_test" target="1.5" />
+      <module name="HibernateDemo_main" target="1.7" />
+      <module name="HibernateDemo_test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
